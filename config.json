@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevetch",
+        "uuid": 16587304,
+        "checksum": "l67jyf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
